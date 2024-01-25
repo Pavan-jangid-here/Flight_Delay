@@ -6,3 +6,5 @@ https://www.kaggle.com/datasets/giovamata/airlinedelaycauses/download?datasetVer
 
 keep the datafile name as "DelayedFlights.csv" if it is not.
 run the files!!!!
+
+Some references taken from https://www.kaggle.com/code/adveros/flight-delay-eda-exploratory-data-analysis
